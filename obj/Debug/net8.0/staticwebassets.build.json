@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Z8HQNr33vNhbvy7iUpBAPrpUgXVMohjeNezGGFmDgQ4=",
+  "Source": "project_cls",
+  "BasePath": "_content/project_cls",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project_cls\\wwwroot",
+      "Source": "project_cls",
+      "ContentRoot": "C:\\Users\\Rabbit\\Desktop\\project_cls-master\\project_cls\\wwwroot\\",
+      "BasePath": "_content/project_cls",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
